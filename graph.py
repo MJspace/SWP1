@@ -1,6 +1,8 @@
 from cgi import parse_qs
-from template import html
+import matplotlib as mpl
+mpl.use('Agg')
 import matplotlib.pyplot as plt
+from template import html
 
 def application(environ, start_response):
     if environ['PATH_INFO'] == '/img/graph.png':
