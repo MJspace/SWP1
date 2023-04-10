@@ -1,0 +1,3 @@
+﻿  project.c
+C:\Users\User\자료구조\Project1.c\Project1.c\project.c(31,16): warning C4129: ']': 문자 이스케이프 시퀀스를 인식할 수 없습니다.
+  Project1.c.vcxproj -> C:\Users\User\자료구조\Project1.c\x64\Debug\Project1.c.exe
